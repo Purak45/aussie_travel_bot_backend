@@ -1,0 +1,15 @@
+﻿[
+  {"city":"sydney","name":"The Grounds of Alexandria","type":"cafe","tags":["brunch","coffee","garden"],"area":"Alexandria","lat":-33.9105,"lng":151.1940},
+  {"city":"sydney","name":"Mamak","type":"restaurant","tags":["malaysian","roti","late"],"area":"Haymarket","lat":-33.8770,"lng":151.2053},
+  {"city":"sydney","name":"Sydney Opera House","type":"attraction","tags":["iconic","harbour","views"],"area":"Circular Quay","lat":-33.8568,"lng":151.2153},
+  {"city":"sydney","name":"Bourke Street Bakery","type":"cafe","tags":["coffee","pastry","brunch"],"area":"Surry Hills","lat":-33.8848,"lng":151.2122},
+  {"city":"sydney","name":"Room Ten","type":"cafe","tags":["brunch","coffee"],"area":"Potts Point","lat":-33.8735,"lng":151.2257},
+  {"city":"sydney","name":"Opera Bar","type":"restaurant","tags":["views","harbour","drinks"],"area":"Circular Quay","lat":-33.8580,"lng":151.2135},
+
+  {"city":"melbourne","name":"Chin Chin","type":"restaurant","tags":["thai","modern","lively"],"area":"CBD","lat":-37.8145,"lng":144.9693},
+  {"city":"melbourne","name":"Seven Seeds","type":"cafe","tags":["coffee","roastery","brunch"],"area":"Carlton","lat":-37.8023,"lng":144.9635},
+  {"city":"melbourne","name":"Royal Botanic Gardens Victoria","type":"attraction","tags":["gardens","walks","nature"],"area":"South Yarra","lat":-37.8304,"lng":144.9796},
+  {"city":"melbourne","name":"Hardware Société","type":"cafe","tags":["brunch","eggs","coffee"],"area":"CBD","lat":-37.8134,"lng":144.9596},
+  {"city":"melbourne","name":"Higher Ground","type":"cafe","tags":["brunch","coffee","industrial"],"area":"CBD","lat":-37.8156,"lng":144.9559},
+  {"city":"melbourne","name":"Vue de monde","type":"restaurant","tags":["fine dining","view"],"area":"Rialto","lat":-37.8183,"lng":144.9577}
+]
